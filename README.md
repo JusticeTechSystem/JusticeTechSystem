@@ -28,12 +28,12 @@ I am a passionate technology professional dedicated to building innovative, effi
 Here is a live look at my development activity, core language distributions, and repository metrics:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JusticeTechSystem&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="JusticeTech GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JusticeTechSystem&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="JusticeTech GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JusticeTechSystem&layout=compact&theme=tokyonight&hide_border=true" alt="JusticeTech Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JusticeTechSystem&theme=tokyonight&hide_border=true" alt="JusticeTech Commit Streak" width="98%" />
+  <img src="https://streak-stats.demolab.com?user=JusticeTechSystem&theme=tokyonight&hide_border=true" alt="JusticeTech Commit Streak" width="98%" />
 </p>
 
 ---
@@ -51,4 +51,3 @@ To leverage technology, innovation, and security-driven development to create im
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/justicetechie)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@justicetechie)
 [![X/Twitter](https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/OnyemaJustice)
-
